@@ -279,6 +279,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u150_ann {
+  border-width:0px;
+  position:absolute;
+  left:82px;
+  top:98px;
+  width:1px;
+  height:1px;
+}
 #u151 {
   border-width:0px;
   position:absolute;
