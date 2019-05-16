@@ -69,6 +69,13 @@
 }
 .placeholder {
 }
+.heading_3 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
 .label {
   font-size:14px;
   text-align:left;
