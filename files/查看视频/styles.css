@@ -2599,3 +2599,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u204 {
+  border-width:0px;
+  position:absolute;
+  left:12px;
+  top:525px;
+  width:82px;
+  height:79px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
